@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tree-vis/static/css/main.c3f9abd0.css",
+    "main.js": "/tree-vis/static/js/main.d8587458.js",
+    "index.html": "/tree-vis/index.html",
+    "main.c3f9abd0.css.map": "/tree-vis/static/css/main.c3f9abd0.css.map",
+    "main.d8587458.js.map": "/tree-vis/static/js/main.d8587458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3f9abd0.css",
+    "static/js/main.d8587458.js"
+  ]
+}
